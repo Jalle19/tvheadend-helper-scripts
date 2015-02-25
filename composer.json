@@ -1,0 +1,26 @@
+{
+    "name": "jalle19/tvheadend-helper-scripts",
+    "description": "Helper scripts for performing routine tasks against a tvheadend server",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Sam Stenvall",
+            "email": "neggelandia@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Jalle19/php-tvheadend.git"
+        }
+    ],
+    "require": {
+        "jalle19/php-tvheadend": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "jalle19\\command": "src",
+            "jalle19\\vbox": "src"
+        }
+    }
+}
