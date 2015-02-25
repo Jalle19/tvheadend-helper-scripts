@@ -1,6 +1,6 @@
 # tvheadend-helper-scripts
 
-This is a collection of scripts that helps you perform time-consuming tasks against a tvheadend instance, such as adding a whole multicast subnet as IPTV muxes. It utilizes the [php-tvheadned](https://github.com/Jalle19/php-tvheadend) library for communicating with and controlling tvheadend instances.
+This is a collection of scripts that helps you perform time-consuming tasks against a tvheadend instance, such as adding a whole multicast subnet as IPTV muxes. It utilizes the [php-tvheadend](https://github.com/Jalle19/php-tvheadend) library for communicating with and controlling tvheadend instances.
 
 ### Installation
 
