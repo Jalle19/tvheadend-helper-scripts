@@ -2,6 +2,6 @@
 
 require_once(__DIR__.'/../vendor/autoload.php');
 
-use jalle19\command\TvheadendVboxImporterCommand;
+use jalle19\command\TvheadendVboxImporter;
 
-$command = new TvheadendVboxImporterCommand();
+$command = new TvheadendVboxImporter();

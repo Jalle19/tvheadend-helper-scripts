@@ -27,7 +27,7 @@ use jalle19\tvheadend\model;
  *
  * @author Sam Stenvall <neggelandia@gmail.com>
  */
-class TvheadendVboxImporterCommand extends TvheadendCommand
+class TvheadendVboxImporter extends TvheadendCommand
 {
 
 	/**
