@@ -1,10 +1,11 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "8c6694081c3070ea639a7e5b7e1dfa78",
+    "content-hash": "7418912a02b9d1159862f4722295f203",
     "packages": [
         {
             "name": "jalle19/php-tvheadend",
@@ -12,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Jalle19/php-tvheadend.git",
-                "reference": "64b393259dd95a161822f7388545b67bf6fe0bf0"
+                "reference": "d0b79e1d03b67ee5814a3897de54e6d04e41c5f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Jalle19/php-tvheadend/zipball/64b393259dd95a161822f7388545b67bf6fe0bf0",
-                "reference": "64b393259dd95a161822f7388545b67bf6fe0bf0",
+                "url": "https://api.github.com/repos/Jalle19/php-tvheadend/zipball/d0b79e1d03b67ee5814a3897de54e6d04e41c5f2",
+                "reference": "d0b79e1d03b67ee5814a3897de54e6d04e41c5f2",
                 "shasum": ""
             },
             "require": {
@@ -45,7 +46,7 @@
                 "source": "https://github.com/Jalle19/php-tvheadend/tree/master",
                 "issues": "https://github.com/Jalle19/php-tvheadend/issues"
             },
-            "time": "2015-03-26 09:30:33"
+            "time": "2015-09-03 19:54:45"
         },
         {
             "name": "kevinlebrun/colors.php",
