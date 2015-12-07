@@ -2,6 +2,6 @@
 
 require_once(__DIR__.'/../vendor/autoload.php');
 
-use jalle19\command\TvheadendMulticastImporter;
+use jalle19\command\TvheadendChannelImporter;
 
-$command = new TvheadendMulticastImporter();
+$command = new TvheadendChannelImporter();
