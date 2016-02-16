@@ -1,10 +1,10 @@
 <?php
 
-namespace jalle19\command;
+namespace Jalle19\command;
 
-use jalle19\tvheadend\cli\TvheadendCommand;
-use jalle19\tvheadend;
-use jalle19\tvheadend\exception;
+use Jalle19\tvheadend\cli\TvheadendCommand;
+use Jalle19\tvheadend;
+use Jalle19\tvheadend\exception;
 
 /**
  * Copyright (C) 2015 Sam Stenvall

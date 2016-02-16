@@ -8,14 +8,8 @@
             "email": "neggelandia@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Jalle19/php-tvheadend.git"
-        }
-    ],
     "require": {
-        "jalle19/php-tvheadend": "dev-master"
+        "jalle19/php-tvheadend": "~0.1.1"
     },
     "autoload": {
         "psr-0": {
