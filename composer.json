@@ -12,9 +12,9 @@
         "jalle19/php-tvheadend": "~0.1.1"
     },
     "autoload": {
-        "psr-0": {
-            "jalle19\\command": "src",
-            "jalle19\\vbox": "src"
+        "psr-4": {
+            "Jalle19\\command\\": "src/Jalle19/command",
+            "Jalle19\\vbox\\": "src/Jalle19/vbox"
         }
     }
 }

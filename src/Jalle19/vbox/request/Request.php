@@ -1,6 +1,6 @@
 <?php
 
-namespace jalle19\vbox\request;
+namespace Jalle19\vbox\request;
 
 /**
  * Description of Request

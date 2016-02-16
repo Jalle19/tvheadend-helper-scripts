@@ -1,6 +1,6 @@
 <?php
 
-namespace jalle19\vbox;
+namespace Jalle19\vbox;
 
 /**
  * Description of Channel

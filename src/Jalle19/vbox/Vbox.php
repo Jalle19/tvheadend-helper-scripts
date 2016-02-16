@@ -1,8 +1,8 @@
 <?php
 
-namespace jalle19\vbox;
+namespace Jalle19\vbox;
 
-use jalle19\vbox\exception;
+use Jalle19\vbox\exception;
 
 /**
  * Represents a VBox Gateway

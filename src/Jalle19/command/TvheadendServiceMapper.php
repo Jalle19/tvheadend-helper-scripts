@@ -1,6 +1,6 @@
 <?php
 
-namespace jalle19\command;
+namespace Jalle19\command;
 
 use Jalle19\tvheadend\cli\TvheadendCommand;
 use Jalle19\tvheadend\model\ServiceMapperRequest;

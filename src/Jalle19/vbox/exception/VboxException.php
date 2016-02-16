@@ -1,6 +1,6 @@
 <?php
 
-namespace jalle19\vbox\exception;
+namespace Jalle19\vbox\exception;
 
 /**
  * Description of VboxException
